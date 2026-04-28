@@ -1,0 +1,2 @@
+# pelosi
+pelosi copy trades
